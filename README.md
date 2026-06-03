@@ -1,2 +1,6 @@
-# ski-info
-Site regroupant les différentes informations sur des stations de ski en France et en Andorre
+# stations plus modernes
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/Noctrya72/pen/Wbozqva](https://codepen.io/Noctrya72/pen/Wbozqva).
+
