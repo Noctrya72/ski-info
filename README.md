@@ -1,4 +1,4 @@
-# Siki-info
+# Ski-info
 
 A Pen created on CodePen.
 
