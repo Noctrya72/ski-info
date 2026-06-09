@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Consulte rapidement la météo, les webcams et les plans des pistes de grandes stations de ski.">
+    <title>Ski Info - Stations, météo et pistes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="hero">
+        <p class="eyebrow">Guide express des stations</p>
+        <h1>Ski Info</h1>
+        <p>Choisis une station et retrouve sa météo, ses webcams et son plan des pistes.</p>
+    </div>
+</header>
+
+<main>
+    <section class="search-container" aria-label="Recherche de station">
+        <label class="sr-only" for="search">Rechercher une station</label>
+        <input
+            type="search"
+            id="search"
+            placeholder="Rechercher une station..."
+            autocomplete="off"
+        >
+    </section>
+
+    <section id="liste" aria-live="polite"></section>
+
+    <section id="fiche" aria-live="polite"></section>
+</main>
+
+<script src="script.js"></script>
+
+</body>
+</html>
