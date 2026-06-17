@@ -13,7 +13,7 @@ const stations = {
             lon: 6.068,
             url: "https://www.alpedhuez.com",
             webcam: "https://www.alpedhuez.com/webcams",
-            plan: "https://www.alpedhuez.com/domaine-skiable"
+            plan: "https://www.alpedhuez.com/wp-content/uploads/2025/11/PLAN-DES-PISTES-HIVER-2025-2026.pdf"
         },
 
         "Val Thorens": {
@@ -21,7 +21,7 @@ const stations = {
             lon: 6.580,
             url: "https://www.valthorens.com",
             webcam: "https://www.valthorens.com/fr/webcams",
-            plan: "https://www.valthorens.com/fr/hiver/domaine-skiable"
+            plan: "https://www.valthorens.com/app/uploads/2024/11/plan-val-thorens-orelle-zoom-legende-bd.pdf"
         },
 
         "Tignes": {
@@ -29,25 +29,23 @@ const stations = {
             lon: 6.907,
             url: "https://www.tignes.net",
             webcam: "https://www.tignes.net/webcams",
-            plan: "https://www.tignes.net/domaine-skiable"
+            plan: "https://public.tignes.net/TIGNES.NET/BROCHURES/PDP_TIGNES_VALDISERE.pdf"
         },
 
         "La Plagne": {
             lat: 45.506,
             lon: 6.677,
             url: "https://www.la-plagne.com",
-            webcam: "https://www.skaping.com/la-plagne",
+            webcam: "https://www.la-plagne.com/sites/default/files/brochures/pdf/PlanPistesLaPlagneParadiski.pdf",
             plan: "https://www.la-plagne.com/fr/plan-des-pistes"
         },
-
         "Chamonix": {
             lat: 45.924,
             lon: 6.869,
             url: "https://www.chamonix.com",
             webcam: "https://www.chamonix.com/webcams",
-            plan: "https://www.chamonix.com/plans-des-pistes"
+plan:"https://www.chamonix.com/sites/default/files/media/brochures/Plan_VALLEE_Hiver%281%29.pdf"
         },
-
         "Megève": {
             lat: 45.857,
             lon: 6.617,
@@ -61,7 +59,7 @@ const stations = {
             lon: 6.634,
             url: "https://www.courchevel.com",
             webcam: "https://www.courchevel.com/fr/webcams",
-            plan: "https://www.courchevel.com/fr/domaine-skiable"
+            plan: "https://www.les3vallees.com/media/download/plan-courchevel.pdf"
         },
 
         "Les Arcs": {
@@ -69,7 +67,7 @@ const stations = {
             lon: 6.827,
             url: "https://www.lesarcs.com",
             webcam: "https://www.lesarcs.com/webcams",
-            plan: "https://www.lesarcs.com/plan-des-pistes"
+            plan: "https://www.lesarcs.com/uploads/pics/plan-pistes-paradiski-2019_01.pdf"
         },
 
         "Serre Chevalier": {
@@ -77,7 +75,7 @@ const stations = {
             lon: 6.579,
             url: "https://www.serre-chevalier.com",
             webcam: "https://www.serre-chevalier.com/fr/webcams",
-            plan: "https://www.serre-chevalier.com/fr/domaine-skiable"
+            plan: "https://www.serre-chevalier.com/sites/default/files/2025-10/plan-pistes-serre-chevalier-2025-2026.pdf"
         },
 
         "Val d'Isère": {
@@ -85,7 +83,7 @@ const stations = {
             lon: 6.980,
             url: "https://www.valdisere.com",
             webcam: "https://www.valdisere.com/webcams",
-            plan: "https://www.valdisere.com/plan-des-pistes"
+            plan: "https://www.valdisere.com/app/uploads/valdisere/2025/10/TI-x-VI-PlanDesPistes-RECTO-20251017.pdf"
         },
 
         "La Clusaz": {
@@ -93,7 +91,7 @@ const stations = {
             lon: 6.424,
             url: "https://www.laclusaz.com",
             webcam: "https://www.laclusaz.com/webcams",
-            plan: "https://www.laclusaz.com/plan-des-pistes"
+            plan: "https://www.laclusaz.com/ski/plan-des-pistes/"
         }
     },
 
